@@ -1,5 +1,5 @@
 # Cat Photo App
-Primeiro projeto HTML do freeCodeCamp (Certified Full Stack Developer).
-- Relembrei tags como `<h2>`, `<img>`, `<p>`, e `<ul>`.
--Centralizei uma lista com CSS.
-- Próximo passo: Survey Form e mais CSS.
+My first HTML project from freeCodeCamp (Certified Full Stack Developer).
+- Remembered HTML tags like `<h2>`, `<img>`, `<p>`, and `<ul>`.
+- Centered a list using CSS.
+- Next step: Build the Survey Form and learn more CSS.
